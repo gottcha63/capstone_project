@@ -34,7 +34,7 @@ Parse timestamps and extract daily aggregations to support time-based analysis.
 
 --> Pricing Model:
 
-Apply a  dynamic pricing model where price increases with occupancy rate,traffic near by , special days , types of vehicle
+Apply a  dynamic pricing model where price increases with occupancy rate,traffic near by , special days , type of vehicle
 
 The pricing formula adapts in real-time based on parking demand.
 
